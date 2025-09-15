@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>عنّي</title>
+  <style>
+    body {
+      font-family: "Cairo", sans-serif;
+      background: linear-gradient(135deg, #74ebd5, #ACB6E5);
+      color: #333;
+      text-align: center;
+      padding: 40px;
+    }
+    h1 {
+      font-size: 40px;
+      color: #222;
+    }
+    p {
+      font-size: 20px;
+      line-height: 1.8;
+    }
+    a {
+      display: inline-block;
+      margin-top: 20px;
+      text-decoration: none;
+      padding: 10px 20px;
+      background: #333;
+      color: #fff;
+      border-radius: 10px;
+    }
+    a:hover {
+      background: #555;
+    }
+  </style>
+</head>
+<body>
+  <h1>👋 أهلاً بيك</h1>
+  <p>
+    دي صفحة <strong>عنّي</strong>  
+    أنا مطوّر ويب وباحث، مهتم بالأمن السيبراني والبرمجة.  
+    بحب أتعلم كل جديد في التكنولوجيا وأطوّر نفسي يومياً.
+  </p>
+
+  <a href="index.html">⬅️ الرجوع للرئيسية</a>
+</body>
+</html>
